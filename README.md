@@ -4,6 +4,7 @@
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 <p align="center">Projeto do curso "JavaScript: criando requisições" da Alura finalizado</p>
+<p align="center">Tratamento de API com Javascript</p>
 
 ## Conteudo aprendido no curso: 
 
