@@ -8,12 +8,12 @@
 ## Conteudo aprendido no curso: 
 
 <ul>
-<li>Saiba como mockar uma API</li>
-<li>Realize requisições GET para retornar dados de uma API</li>
-<li>Construa requisições POST para cadastrar dados em uma API</li>
-<li>Reforce seus conhecimentos em javascript assíncrono</li>
-<li>Trate possíveis erros de requisição retornados da API</li>
-<li>Aprenda a transformar uma página estática em dinâmica</li>
+<li>Como mockar uma API</li>
+<li>Realizar requisições GET para retornar dados de uma API</li>
+<li>Construção de requisições POST para cadastrar dados em uma API</li>
+<li>Reforzar conhecimentos em javascript assíncrono</li>
+<li>Tratamento de possíveis erros de requisição retornados da API</li>
+<li>Transformar uma página estática em dinâmica</li>
 </ul>
 
 ## Tecnologias utilizadas durante o curso
